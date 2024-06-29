@@ -1,0 +1,49 @@
+h1{
+    /* display: inline-block; */
+    width: 230px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: gainsboro;
+    color: navy;
+    font-size: 50px;
+    margin-left: 40%;
+    border-radius: 30px;
+}
+button{
+    padding: 10px 20px;
+    font-size: x-large;
+    border-radius: 80%;
+    margin: 2px;
+    font-weight: bold;
+    background-color: navy;
+    color: whitesmoke;
+    cursor: pointer;
+}
+button:hover{
+    background-color: steelblue;
+    color: white;
+}
+.calbody{
+    border: 3px solid black;
+    display: inline-block;
+    margin-left: 38%;
+    margin-top:2%;
+    text-align: center;
+    background-color: slategray;
+    border-radius: 20px;
+}
+input{
+    /* box-sizing: border-box; */
+    width: 250px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 30px;
+    border-style: none;
+    text-align: start;
+    margin: 20px 20px;
+    font-weight: bold;
+    /* background-color: rgba(0, 0, 0, 0.835); */
+    color: navy;
+    border-radius: 30px;
+}
